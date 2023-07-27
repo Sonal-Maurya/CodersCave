@@ -45,14 +45,12 @@
     text-transform: capitalize;
   }
   .container button {
-    background-color: #ffffff;
+    background-color: #fcf3f3;
     border: none;
     padding: 15px 45px;
     border-radius: 5px;
     font-size: 18px;
     font-weight: 600;
-    color: #5c20f5;
+    color: #14729a;
     cursor: pointer;
   }
-
-  
